@@ -1,0 +1,23 @@
+h1 {color: rgb(15, 84, 29);}
+h2{color:rgb(42, 165, 77)}
+body {background-color: rgba(248, 235, 244, 0.982);}
+p{color: rgb(56, 49, 44);}
+thead{background-color: green;
+    font-family: Verdana;font-size: small;}
+td{background-color: rgb(186, 221, 190);}
+
+header{margin: auto; width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;}
+
+section{
+
+    align-items: center;
+    display:inline-block;
+}
+
+footer{
+
+    background-color: rgb(220, 108, 200);
+    height: 200px;
+}

@@ -1,0 +1,19 @@
+header{
+    background: black;
+    
+
+}
+header :hover{
+    color: aqua;
+}
+a {
+   font-size: 20px;
+   color: beige;
+   text-decoration: none;
+}
+footer{
+
+    background-color: rgb(220, 108, 200);
+    height: 200px;
+    
+}
